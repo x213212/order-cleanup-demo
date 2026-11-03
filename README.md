@@ -20,4 +20,4 @@
 
 不需要委託方的賣場登入權限。涉及會計、稅務或平台費率的判斷，應由委託方確認規則後才能套用。
 
-需要討論時，可[開啟 GitHub issue](https://github.com/x213212/order-cleanup-demo/issues/new)說明資料格式與希望核對的問題。**請勿在公開 issue 貼真實訂單、個資、密碼或其他機密資料。**
+需要私下詢價時，請透過[清序工作室服務網站](https://x213212.github.io/online-data-service/)的 Email 入口，說明檔案類型、約略筆數與希望完成的時間。也可[開啟 GitHub issue](https://github.com/x213212/order-cleanup-demo/issues/new)討論一般性資料格式問題。**請勿在公開 issue 貼真實訂單、個資、密碼或其他機密資料。**
